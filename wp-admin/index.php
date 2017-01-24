@@ -139,4 +139,3 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 
 <?php
 require( ABSPATH . 'wp-admin/admin-footer.php' );
-Hello world
